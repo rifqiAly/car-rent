@@ -1,0 +1,50 @@
+.contact-list {
+    height: 100%;
+    width: 100%;
+    margin: 8px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 1px solid #d7dcdf;
+}
+
+table thead tr {
+    display: block;
+}
+
+table th,
+table td {
+    width: 150px;
+}
+
+table tbody {
+    display: block;
+    height: 45vh;
+    overflow: auto
+}
+
+.contact-list p,
+.contact-list h2,
+.contact-list .fa-solid {
+    color: #646464;
+}
+
+.contact-list .fa-solid {
+    margin-left: 24px;
+}
+
+.contact-list table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.contact-list th,
+.contact-list td {
+    padding: 16px;
+    border-bottom: 1px solid #ddd;
+}
+
+.contact-list .profile-img-box {
+    margin-right: 0px;
+    margin-left: 32px;
+}
